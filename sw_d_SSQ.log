@@ -1,0 +1,268 @@
+17:34:46 (lmgrd) -----------------------------------------------
+17:34:46 (lmgrd)   Please Note:
+17:34:46 (lmgrd) 
+17:34:46 (lmgrd)   This log is intended for debug purposes only.
+17:34:46 (lmgrd)   In order to capture accurate license
+17:34:46 (lmgrd)   usage data into an organized repository,
+17:34:46 (lmgrd)   please enable report logging. Use Flexera's
+17:34:46 (lmgrd)   software license administration  solution,
+17:34:46 (lmgrd)   FlexNet Manager, to  readily gain visibility
+17:34:46 (lmgrd)   into license usage data and to create
+17:34:46 (lmgrd)   insightful reports on critical information like
+17:34:46 (lmgrd)   license availability and usage. FlexNet Manager
+17:34:46 (lmgrd)   can be fully automated to run these reports on
+17:34:46 (lmgrd)   schedule and can be used to track license
+17:34:46 (lmgrd)   servers and usage across a heterogeneous
+17:34:46 (lmgrd)   network of servers including Windows NT, Linux
+17:34:46 (lmgrd)   and UNIX.
+17:34:46 (lmgrd) 
+17:34:46 (lmgrd) -----------------------------------------------
+17:34:46 (lmgrd) 
+17:34:46 (lmgrd) 
+17:34:46 (lmgrd) Server's System Date and Time: Thu Jul 08 2021 17:34:46 Tokyo Standard Time
+17:34:46 (lmgrd) pid 5376
+17:34:46 (lmgrd) SLOG: Summary LOG statistics is enabled.
+17:34:46 (lmgrd) Done rereading
+17:34:46 (lmgrd) FlexNet Licensing (v11.16.5.0 build 255225 i86_n3) started on DESKTOP-PQCP7TF (IBM PC) (7/8/2021)
+17:34:46 (lmgrd) Copyright (c) 1988-2019 Flexera. All Rights Reserved.
+17:34:46 (lmgrd) World Wide Web:  http://www.flexerasoftware.com
+17:34:46 (lmgrd) License file(s): D:\SolidWorks.2021.SP0.0.Premium\DS.SolidWorks.2021.SP0.0.Premium\_SolidSQUAD_\_SolidSQUAD_\SolidWorks_Flexnet_Server\sw_d_SSQ.lic
+17:34:46 (lmgrd) lmgrd tcp-port 25734
+17:34:46 (lmgrd) (@lmgrd-SLOG@) ===============================================
+17:34:46 (lmgrd) (@lmgrd-SLOG@) === LMGRD ===
+17:34:46 (lmgrd) (@lmgrd-SLOG@) Start-Date: Thu Jul 08 2021 17:34:46 Tokyo Standard Time
+17:34:46 (lmgrd) (@lmgrd-SLOG@) PID: 5376
+17:34:46 (lmgrd) (@lmgrd-SLOG@) LMGRD Version: v11.16.5.0 build 255225 i86_n3 ( build 255225 (ipv6))
+17:34:46 (lmgrd) (@lmgrd-SLOG@) 
+17:34:46 (lmgrd) (@lmgrd-SLOG@) === Network Info ===
+17:34:46 (lmgrd) (@lmgrd-SLOG@) Listening port: 25734
+17:34:46 (lmgrd) (@lmgrd-SLOG@) 
+17:34:46 (lmgrd) (@lmgrd-SLOG@) === Startup Info ===
+17:34:46 (lmgrd) (@lmgrd-SLOG@) Is LS run as a service: Yes
+17:34:46 (lmgrd) (@lmgrd-SLOG@) Server Configuration: Single Server
+17:34:46 (lmgrd) (@lmgrd-SLOG@) Command-line options used at LS startup: -c D:\SolidWorks.2021.SP0.0.Premium\DS.SolidWorks.2021.SP0.0.Premium\_SolidSQUAD_\_SolidSQUAD_\SolidWorks_Flexnet_Server\sw_d_SSQ.lic -l D:\SolidWorks.2021.SP0.0.Premium\DS.SolidWorks.2021.SP0.0.Premium\_SolidSQUAD_\_SolidSQUAD_\SolidWorks_Flexnet_Server\sw_d_SSQ.log -z -s 
+17:34:46 (lmgrd) (@lmgrd-SLOG@) License file(s) used:  D:\SolidWorks.2021.SP0.0.Premium\DS.SolidWorks.2021.SP0.0.Premium\_SolidSQUAD_\_SolidSQUAD_\SolidWorks_Flexnet_Server\sw_d_SSQ.lic
+17:34:46 (lmgrd) (@lmgrd-SLOG@) ===============================================
+17:34:46 (lmgrd) SLOG: FNPLS-INTERNAL-VL1-4096
+17:34:46 (lmgrd) Starting vendor daemons ... 
+17:34:47 (lmgrd) Started SW_D (pid 5644)
+17:34:55 (SW_D) Unable to initialize access to trusted storage: 1
+17:34:55 (SW_D) FlexNet Licensing version v11.16.5.0 build 255225 i86_n3
+17:34:56 (SW_D) SLOG: Summary LOG statistics is enabled.
+17:34:56 (SW_D) SLOG: FNPLS-INTERNAL-CKPT1
+17:34:56 (SW_D) SLOG: VM Status: 255
+17:34:56 (SW_D) SLOG: FNPLS-INTERNAL-CKPT5
+17:34:56 (SW_D) SLOG: TPM Status: 1
+17:34:56 (SW_D) SLOG: FNPLS-INTERNAL-CKPT6
+17:34:57 (SW_D) Server started on DESKTOP-PQCP7TF for:	solidworks	
+17:34:57 (SW_D) swoffice	swofficepro	harnessing	
+17:34:57 (SW_D) photoworks	featureworks	piping		
+17:34:57 (SW_D) animator	toolbox		utilities	
+17:34:57 (SW_D) swofficepremium taskscheduler	dwgeditor	
+17:34:57 (SW_D) swift		designchecker	scanto3d	
+17:34:57 (SW_D) tolanalyst	snlcore		swofficepremium_cwpro 
+17:34:57 (SW_D) swofficepremium_cwadvpro circuitworks	photoviewcore	
+17:34:57 (SW_D) swsustainability catiatoswtrans	swcosting	
+17:34:57 (SW_D) swbackcomp	routingelec	swmodelbreakview 
+17:34:57 (SW_D) swradialexplode swchainstepexplode swflatteneverything 
+17:34:57 (SW_D) swcostingasm	dimxpertasm	sw3dpdf		
+17:34:57 (SW_D) swlivereporteditor edrw		edrwcore	
+17:34:57 (SW_D) swmbd		swmbd_std	elec2dcore	
+17:34:57 (SW_D) elec2dstd	elec2d		elec3d		
+17:34:57 (SW_D) elecpro		pdmworks	pdmworks_sa	
+17:34:57 (SW_D) pdmworks_as	sw3dinteropcatia swcomparepmi	
+17:34:57 (SW_D) cae_cwcore	cae_cwadvpro	cae_cosmosmotioncore 
+17:34:57 (SW_D) cae_cosmosmotion cae_cosmosfloworkscore cae_cosmosfloworkspe 
+17:34:57 (SW_D) cae_cosmosfloworks_hvac cae_cosmosfloworks_elec cae_cosmosfloworkspro 
+17:34:57 (SW_D) cae_cosmosfloworksadvpro cae_cosmosfloworks_rot swcomposer	
+17:34:57 (SW_D) swcomposer_publisher swcomposer_animationpublisher swcomposer_kinematicpublisher 
+17:34:57 (SW_D) swcomposer_syncfullmaintenance swcomposer_pathplanning swcomposer_publishpdf 
+17:34:57 (SW_D) swcomposer_clashrt swcomposer_vectorizationsync swcomposer_acis 
+17:34:57 (SW_D) swcomposer_iges swcomposer_step swcomposer_proe 
+17:34:57 (SW_D) swcomposer_vdafs swcomposer_cgm	swcomposer_cg	
+17:34:57 (SW_D) swcomposer_catiav4 swcomposer_catiav4pipe swcomposer_catiav5 
+17:34:57 (SW_D) swcomposer_catiav5cgr swcomposer_catiav5fta swcomposer_playerexchange 
+17:34:57 (SW_D) swcomposer_geometrypublisher swcomposer_templatepublisher swcomposer_highrespublisher 
+17:34:57 (SW_D) swcomposer_rightmanager swcomposer_playerintegration swcomposer_secure3d 
+17:34:57 (SW_D) swcomposer_connect swcomposer_catiav52d swcomposer_catiav42d 
+17:34:57 (SW_D) swcomposer_parasolid swcomposer_ug	swcomposer_inventor 
+17:34:57 (SW_D) swcomposer_jtexport swcomposer_jtimport swcomposer_cadds 
+17:34:57 (SW_D) swcomposer_jtimportfta swcomposer_syncenterprise swcomposer_check 
+17:34:57 (SW_D) swcomposer_playerpro swinspection	swinspection_pdf 
+17:34:57 (SW_D) swinspection_sw swinspection_cmm swinspection_measure 
+17:34:57 (SW_D) swinspection_std swinspection_pro swinspection_3dpdf 
+17:34:57 (SW_D) swinspection_pdf_2dimport swinspection_pdf_3dimport swinspection_sw_3dimport 
+17:34:57 (SW_D) plastics	plastics_pro	plastics_premium 
+17:34:57 (SW_D) plastics_advanced draftsight	draftsightapi	
+17:34:57 (SW_D) draftsightpremium draftsightcampus draftsightclass 
+17:34:57 (SW_D) draftsightdeveloper draftsightpro	visu		
+17:34:57 (SW_D) visupro		visupowerboost	pcb		
+17:34:57 (SW_D) pcbpro		pcbaltium	camassemblies	
+17:34:57 (SW_D) camturning	camconfigs	camadaptive	
+17:34:57 (SW_D) camnceditor	cammillindexing camposting	
+17:34:57 (SW_D) campro		swepdm_cadeditor swepdm_cadeditorandweb 
+17:34:57 (SW_D) swepdm_contributor swepdm_contributorandweb swepdm_viewer	
+17:34:57 (SW_D) swepdm_web	swepdm_processor swepm_web	
+17:34:57 (SW_D) swepdm		swpdmstd_cadeditor swpdmstd_contributor 
+17:34:57 (SW_D) swpdmstd_viewer swmanage	swmanagefull	
+17:34:57 (SW_D) swmanageview	swmanagepro_editor swmanagepro_contributor 
+17:34:57 (SW_D) swmanagepro_viewer swmanagepro_processor swmanageswaddin 
+17:34:57 (SW_D) camcore		swdesigntomanufacturing swmechatronicspro 
+17:34:57 (SW_D) swmechatronicsstd visuboost	
+17:34:57 (SW_D) EXTERNAL FILTERS are OFF
+17:34:57 (lmgrd) SW_D using TCP-port 49681
+17:34:58 (SW_D) SLOG: Statistics Log Frequency is 240 minute(s).
+17:34:58 (SW_D) SLOG: TS update poll interval is 600 seconds.
+17:34:58 (SW_D) SLOG: Activation borrow reclaim percentage is 0.
+17:34:58 (SW_D) (@SW_D-SLOG@) ===============================================
+17:34:58 (SW_D) (@SW_D-SLOG@) === Vendor Daemon ===
+17:34:58 (SW_D) (@SW_D-SLOG@) Vendor daemon: SW_D
+17:34:58 (SW_D) (@SW_D-SLOG@) Start-Date: Thu Jul 08 2021 17:34:58 Tokyo Standard Time
+17:34:58 (SW_D) (@SW_D-SLOG@) PID: 5644
+17:34:58 (SW_D) (@SW_D-SLOG@) VD Version: v11.16.5.0 build 255225 i86_n3 ( build 255225 (ipv6))
+17:34:58 (SW_D) (@SW_D-SLOG@) 
+17:34:58 (SW_D) (@SW_D-SLOG@) === Startup/Restart Info ===
+17:34:58 (SW_D) (@SW_D-SLOG@) Options file used: None
+17:34:58 (SW_D) (@SW_D-SLOG@) Is vendor daemon a CVD: No
+17:34:58 (SW_D) (@SW_D-SLOG@) Is FlexNet Licensing Service installed and compatible: Yes
+17:34:58 (SW_D) (@SW_D-SLOG@) FlexNet Licensing Service Version: 11.16.5.0
+17:34:58 (SW_D) (@SW_D-SLOG@) Is TS accessed: No
+17:34:58 (SW_D) (@SW_D-SLOG@) TS access time: -NA-
+17:34:58 (SW_D) (@SW_D-SLOG@) Number of VD restarts since LS startup: 0
+17:34:58 (SW_D) (@SW_D-SLOG@) 
+17:34:58 (SW_D) (@SW_D-SLOG@) === Network Info ===
+17:34:58 (SW_D) (@SW_D-SLOG@) Listening port: 49681
+17:34:58 (SW_D) (@SW_D-SLOG@) Daemon select timeout (in seconds): 1
+17:34:58 (SW_D) (@SW_D-SLOG@) 
+17:34:58 (SW_D) (@SW_D-SLOG@) === Host Info ===
+17:34:58 (SW_D) (@SW_D-SLOG@) Host used in license file: DESKTOP-PQCP7TF
+17:34:58 (SW_D) (@SW_D-SLOG@) HostID node-locked in license file: NA
+17:34:58 (SW_D) (@SW_D-SLOG@) HostID of the License Server: 94c691d05264
+17:34:58 (SW_D) (@SW_D-SLOG@) Running on Hypervisor: None (Physical)
+17:34:58 (SW_D) (@SW_D-SLOG@) ===============================================
+17:35:13 (SW_D) TCP_NODELAY NOT enabled
+17:35:28 (SW_D) OUT: "visuboost" SYSTEM@DESKTOP-PQCP7TF  
+21:34:59 (SW_D) (@SW_D-SLOG@) ===============================================
+21:34:59 (SW_D) (@SW_D-SLOG@) === Last 10 Client Requests Processing Time (in ms) ===
+21:34:59 (SW_D) (@SW_D-SLOG@) Time: Thu Jul 08 2021 21:34:59 Tokyo Standard Time
+21:34:59 (SW_D) (@SW_D-SLOG@) Request processing time, when, #concurrent clients, (private bytes (in KB)), client info (user, node, FD)
+21:34:59 (SW_D) (@SW_D-SLOG@) 00000000 ms at Thu Jul 08 2021 21:33:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+21:34:59 (SW_D) (@SW_D-SLOG@) 00000000 ms at Thu Jul 08 2021 21:31:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+21:34:59 (SW_D) (@SW_D-SLOG@) 00000000 ms at Thu Jul 08 2021 21:29:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+21:34:59 (SW_D) (@SW_D-SLOG@) 00000000 ms at Thu Jul 08 2021 21:27:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+21:34:59 (SW_D) (@SW_D-SLOG@) 00000000 ms at Thu Jul 08 2021 21:25:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+21:34:59 (SW_D) (@SW_D-SLOG@) 00000000 ms at Thu Jul 08 2021 21:23:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+21:34:59 (SW_D) (@SW_D-SLOG@) 00000000 ms at Thu Jul 08 2021 21:21:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+21:34:59 (SW_D) (@SW_D-SLOG@) 00000000 ms at Thu Jul 08 2021 21:19:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+21:34:59 (SW_D) (@SW_D-SLOG@) 00000000 ms at Thu Jul 08 2021 21:17:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+21:34:59 (SW_D) (@SW_D-SLOG@) 00000000 ms at Thu Jul 08 2021 21:15:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+21:34:59 (SW_D) (@SW_D-SLOG@) 
+21:34:59 (SW_D) (@SW_D-SLOG@) === Top 10 Peak Client Requests Processing Time (in ms) ===
+21:34:59 (SW_D) (@SW_D-SLOG@) Time: Thu Jul 08 2021 21:34:59 Tokyo Standard Time
+21:34:59 (SW_D) (@SW_D-SLOG@) Request processing time, when, #concurrent clients, (private bytes (in KB)), client info (user, node, FD)
+21:34:59 (SW_D) (@SW_D-SLOG@) 
+21:34:59 (SW_D) (@SW_D-SLOG@) === Top 10 Peak In-house Operations time (in ms) ===
+21:34:59 (SW_D) (@SW_D-SLOG@) NOTE: Peak times greater than 4 seconds get recorded.
+21:34:59 (SW_D) (@SW_D-SLOG@) Time: Thu Jul 08 2021 21:34:59 Tokyo Standard Time
+21:34:59 (SW_D) (@SW_D-SLOG@) In-house operation time, when, #concurrent clients
+21:34:59 (SW_D) (@SW_D-SLOG@) 
+21:34:59 (SW_D) (@SW_D-SLOG@) === Active Connections Info ===
+21:34:59 (SW_D) (@SW_D-SLOG@) Peak active connections #3 attempted at Thu Jul 08 2021 17:35:13 Tokyo Standard Time
+21:34:59 (SW_D) (@SW_D-SLOG@) 
+21:34:59 (SW_D) (@SW_D-SLOG@) === Memory Usage Info ===
+21:34:59 (SW_D) (@SW_D-SLOG@) Peak private bytes 3812K attempted at Thu Jul 08 2021 17:35:28 Tokyo Standard Time
+21:34:59 (SW_D) (@SW_D-SLOG@) ===============================================
+23:34:49 (lmgrd) TIMESTAMP 7/8/2021
+23:39:59 (SW_D) TIMESTAMP 7/8/2021
+ 1:35:00 (SW_D) (@SW_D-SLOG@) ===============================================
+ 1:35:00 (SW_D) (@SW_D-SLOG@) === Last 10 Client Requests Processing Time (in ms) ===
+ 1:35:00 (SW_D) (@SW_D-SLOG@) Time: Fri Jul 09 2021 01:35:00 Tokyo Standard Time
+ 1:35:00 (SW_D) (@SW_D-SLOG@) Request processing time, when, #concurrent clients, (private bytes (in KB)), client info (user, node, FD)
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 01:33:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 01:31:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 01:29:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 01:27:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 01:25:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 01:23:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 01:21:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 01:19:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 01:17:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 01:15:14 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 
+ 1:35:00 (SW_D) (@SW_D-SLOG@) === Top 10 Peak Client Requests Processing Time (in ms) ===
+ 1:35:00 (SW_D) (@SW_D-SLOG@) Time: Fri Jul 09 2021 01:35:00 Tokyo Standard Time
+ 1:35:00 (SW_D) (@SW_D-SLOG@) Request processing time, when, #concurrent clients, (private bytes (in KB)), client info (user, node, FD)
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 
+ 1:35:00 (SW_D) (@SW_D-SLOG@) === Top 10 Peak In-house Operations time (in ms) ===
+ 1:35:00 (SW_D) (@SW_D-SLOG@) NOTE: Peak times greater than 4 seconds get recorded.
+ 1:35:00 (SW_D) (@SW_D-SLOG@) Time: Fri Jul 09 2021 01:35:00 Tokyo Standard Time
+ 1:35:00 (SW_D) (@SW_D-SLOG@) In-house operation time, when, #concurrent clients
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 
+ 1:35:00 (SW_D) (@SW_D-SLOG@) === Active Connections Info ===
+ 1:35:00 (SW_D) (@SW_D-SLOG@) Peak active connections #3 attempted at Thu Jul 08 2021 17:35:13 Tokyo Standard Time
+ 1:35:00 (SW_D) (@SW_D-SLOG@) 
+ 1:35:00 (SW_D) (@SW_D-SLOG@) === Memory Usage Info ===
+ 1:35:00 (SW_D) (@SW_D-SLOG@) Peak private bytes 3812K attempted at Thu Jul 08 2021 17:35:28 Tokyo Standard Time
+ 1:35:00 (SW_D) (@SW_D-SLOG@) ===============================================
+ 5:34:51 (lmgrd) TIMESTAMP 7/9/2021
+ 5:35:01 (SW_D) (@SW_D-SLOG@) ===============================================
+ 5:35:01 (SW_D) (@SW_D-SLOG@) === Last 10 Client Requests Processing Time (in ms) ===
+ 5:35:01 (SW_D) (@SW_D-SLOG@) Time: Fri Jul 09 2021 05:35:01 Tokyo Standard Time
+ 5:35:01 (SW_D) (@SW_D-SLOG@) Request processing time, when, #concurrent clients, (private bytes (in KB)), client info (user, node, FD)
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 05:33:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 05:31:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 05:29:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 05:27:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 05:25:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 05:23:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 05:21:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 05:19:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 05:17:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 05:15:15 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 
+ 5:35:01 (SW_D) (@SW_D-SLOG@) === Top 10 Peak Client Requests Processing Time (in ms) ===
+ 5:35:01 (SW_D) (@SW_D-SLOG@) Time: Fri Jul 09 2021 05:35:01 Tokyo Standard Time
+ 5:35:01 (SW_D) (@SW_D-SLOG@) Request processing time, when, #concurrent clients, (private bytes (in KB)), client info (user, node, FD)
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 
+ 5:35:01 (SW_D) (@SW_D-SLOG@) === Top 10 Peak In-house Operations time (in ms) ===
+ 5:35:01 (SW_D) (@SW_D-SLOG@) NOTE: Peak times greater than 4 seconds get recorded.
+ 5:35:01 (SW_D) (@SW_D-SLOG@) Time: Fri Jul 09 2021 05:35:01 Tokyo Standard Time
+ 5:35:01 (SW_D) (@SW_D-SLOG@) In-house operation time, when, #concurrent clients
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 
+ 5:35:01 (SW_D) (@SW_D-SLOG@) === Active Connections Info ===
+ 5:35:01 (SW_D) (@SW_D-SLOG@) Peak active connections #3 attempted at Thu Jul 08 2021 17:35:13 Tokyo Standard Time
+ 5:35:01 (SW_D) (@SW_D-SLOG@) 
+ 5:35:01 (SW_D) (@SW_D-SLOG@) === Memory Usage Info ===
+ 5:35:01 (SW_D) (@SW_D-SLOG@) Peak private bytes 3812K attempted at Thu Jul 08 2021 17:35:28 Tokyo Standard Time
+ 5:35:01 (SW_D) (@SW_D-SLOG@) ===============================================
+ 5:45:01 (SW_D) TIMESTAMP 7/9/2021
+ 9:35:02 (SW_D) (@SW_D-SLOG@) ===============================================
+ 9:35:02 (SW_D) (@SW_D-SLOG@) === Last 10 Client Requests Processing Time (in ms) ===
+ 9:35:02 (SW_D) (@SW_D-SLOG@) Time: Fri Jul 09 2021 09:35:02 Tokyo Standard Time
+ 9:35:02 (SW_D) (@SW_D-SLOG@) Request processing time, when, #concurrent clients, (private bytes (in KB)), client info (user, node, FD)
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 09:33:16 Tokyo Standard Time,#3,(3316K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 09:31:16 Tokyo Standard Time,#3,(3316K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 09:29:16 Tokyo Standard Time,#3,(3452K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 09:27:16 Tokyo Standard Time,#3,(3452K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 09:25:16 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 09:23:16 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 09:21:16 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 09:19:16 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 09:17:16 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 00000000 ms at Fri Jul 09 2021 09:15:16 Tokyo Standard Time,#3,(3312K),(SYSTEM,DESKTOP-PQCP7TF,604)
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 
+ 9:35:02 (SW_D) (@SW_D-SLOG@) === Top 10 Peak Client Requests Processing Time (in ms) ===
+ 9:35:02 (SW_D) (@SW_D-SLOG@) Time: Fri Jul 09 2021 09:35:02 Tokyo Standard Time
+ 9:35:02 (SW_D) (@SW_D-SLOG@) Request processing time, when, #concurrent clients, (private bytes (in KB)), client info (user, node, FD)
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 
+ 9:35:02 (SW_D) (@SW_D-SLOG@) === Top 10 Peak In-house Operations time (in ms) ===
+ 9:35:02 (SW_D) (@SW_D-SLOG@) NOTE: Peak times greater than 4 seconds get recorded.
+ 9:35:02 (SW_D) (@SW_D-SLOG@) Time: Fri Jul 09 2021 09:35:02 Tokyo Standard Time
+ 9:35:02 (SW_D) (@SW_D-SLOG@) In-house operation time, when, #concurrent clients
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 
+ 9:35:02 (SW_D) (@SW_D-SLOG@) === Active Connections Info ===
+ 9:35:02 (SW_D) (@SW_D-SLOG@) Peak active connections #3 attempted at Thu Jul 08 2021 17:35:13 Tokyo Standard Time
+ 9:35:02 (SW_D) (@SW_D-SLOG@) 
+ 9:35:02 (SW_D) (@SW_D-SLOG@) === Memory Usage Info ===
+ 9:35:02 (SW_D) (@SW_D-SLOG@) Peak private bytes 3812K attempted at Thu Jul 08 2021 17:35:28 Tokyo Standard Time
+ 9:35:02 (SW_D) (@SW_D-SLOG@) ===============================================
